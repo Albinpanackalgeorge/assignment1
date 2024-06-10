@@ -1,0 +1,32 @@
+h1
+{
+    color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+body{
+    background-color: rgb(89, 97, 82);
+}
+
+img{
+    display: block;
+    width: 600px;
+    height: auto;
+}
+
+
+
+header {
+    background-color: #343a40;
+    
+}
+
+
+
+legend {
+    padding: 0 10px;
+    font-weight: bold;
+}
